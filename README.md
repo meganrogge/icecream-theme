@@ -1,8 +1,8 @@
 <div align="center">
 
-# Candy Theme
+# Icecream Theme
 
-A theme inspired by icecream for VS Code.
+A theme inspired by icecream for VS Code and the light counterpart to [Candy](https://marketplace.visualstudio.com/items?itemName=meganrogge.icecream-theme).
 
 </div>
 
