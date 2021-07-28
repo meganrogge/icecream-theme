@@ -2,7 +2,7 @@
 
 # Icecream Theme
 
-A theme inspired by icecream for VS Code and the light counterpart to [Candy](https://marketplace.visualstudio.com/items?itemName=meganrogge.icecream-theme).
+A theme inspired by icecream for VS Code and the light counterpart to [Candy](https://marketplace.visualstudio.com/items?itemName=meganrogge.candy-theme).
 
 </div>
 
